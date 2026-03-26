@@ -88,7 +88,7 @@ The **Softmax** and **Sigmoid** functions are commonly used as the final activat
 
 - **Why Use It?**
   - Converts raw scores (logits) into probabilities.
-  - Ensures that the output probabilities sum to 1, making it suitable for classification tasks.
+  - Ensures that the **output probabilities sum to 1, making it suitable for classification tasks.**
   - Example: In a 3-class classification problem, the output might be \([0.7, 0.2, 0.1]\).
 
 ---
@@ -104,7 +104,7 @@ The **Softmax** and **Sigmoid** functions are commonly used as the final activat
 
 - **Why Use It?**
   - Converts raw scores into probabilities between 0 and 1.
-  - Suitable for binary classification where the output represents the probability of belonging to a class.
+  - Suitable for binary classification **where the output represents the probability of belonging to a class**.
   - Example: If the output is 0.8, it means there's an 80% chance the input belongs to the positive class.
 
 ---
