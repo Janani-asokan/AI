@@ -321,7 +321,7 @@ Great! Let’s dive deeper into **how to determine the right model** and **where
    - Tune hyperparameters (e.g., max depth, learning rate).
    - Use ensemble methods if needed.
 
----
+--- 
 
 ### **Key Takeaways**
 - The right model depends on the **problem type**, **data characteristics**, and **business requirements**.
